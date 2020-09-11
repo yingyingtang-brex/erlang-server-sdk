@@ -17,7 +17,7 @@
     lru,
     backoff,
     verl,
-    uuid
+    uuid_erl
    ]},
   {env,[]},
   {modules, []},
