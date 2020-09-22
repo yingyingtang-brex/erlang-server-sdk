@@ -19,7 +19,7 @@ defmodule Ldclient.MixProject do
   defp deps do
     [
       {:shotgun, git: "https://github.com/brexhq/shotgun.git", branch: "master"},
-      {:jsx, "~> 2.9"},
+      {:jsx, "~> 2.8.3"},
       {:verl, "~> 1.0"},
       {:lru, "~> 1.3"},
       {:backoff, "~> 1.1"},
