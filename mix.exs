@@ -10,6 +10,12 @@ defmodule Ldclient.MixProject do
     ]
   end
 
+  def application do
+    [
+      mod: {:ldclient_app, []},
+    ]
+  end
+
   defp deps do
     [
       {:shotgun, git: "https://github.com/brexhq/shotgun.git", branch: "master"},
