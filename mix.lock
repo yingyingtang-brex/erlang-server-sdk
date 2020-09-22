@@ -1,0 +1,11 @@
+%{
+  "backoff": {:hex, :backoff, "1.1.6", "83b72ed2108ba1ee8f7d1c22e0b4a00cfe3593a67dbc792799e8cce9f42f796b", [:rebar3], [], "hexpm", "cf0cfff8995fb20562f822e5cc47d8ccf664c5ecdc26a684cbe85c225f9d7c39"},
+  "cowlib": {:git, "https://github.com/ninenines/cowlib", "106ba84bb04537879d8ce59321a04e0682110b91", [ref: "2.6.0"]},
+  "gun": {:git, "https://github.com/ninenines/gun.git", "e7dd9f227e46979d8073e71c683395a809b78cb4", [ref: "1.3.0"]},
+  "jsx": {:hex, :jsx, "2.11.0", "08154624050333919b4ac1b789667d5f4db166dc50e190c4d778d1587f102ee0", [:rebar3], [], "hexpm", "eed26a0d04d217f9eecefffb89714452556cf90eb38f290a27a4d45b9988f8c0"},
+  "lru": {:hex, :lru, "1.3.1", "5e1408df9effef6e719fa66ddcaecb3c816a5c167c6e95438fe5a24b9251f380", [:rebar3], [], "hexpm", "cd6ac15c383d58cd2933df9cb918617b24b12b6e5fb24d94c4c8f200fd93f619"},
+  "quickrand": {:hex, :quickrand, "2.0.0", "665c49881808da68a5c58ddeda16ea60b16be54dbb719b029eea5835fd12dae9", [:rebar3], [], "hexpm", "0344d02b40bc44b3e8e8a3dbd89a3b29e5690bc44811149ee704ac3a695a29e3"},
+  "shotgun": {:git, "https://github.com/brexhq/shotgun.git", "00b0a3f92cf505aec0da81a21a13ac7c068a4a80", [branch: "master"]},
+  "uuid_erl": {:git, "https://github.com/brexhq/uuid.git", "14bf0045efed7efc895bbd8ff020973f44809e96", [branch: "master"]},
+  "verl": {:hex, :verl, "1.0.2", "02ecd8e074e247c762383a6fe85533d6d07007529b86e47aaa6a80a9c1bb6629", [:rebar3], [], "hexpm", "7a3a0a827c6c2400b26dbc87ca9231d45294abaa95d80a2aedc3310213a93139"},
+}
